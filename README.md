@@ -5,6 +5,7 @@ This program uses the ScriptEngineManager to execute dynamic javascript code as 
 Please see App.java or JavascriptFilterTest.java
 
 ### Build
+Install JDK 1.8+
 First install maven 3.2+
 
 git clone https://github.com/christopher-gillies/java-javascript-filter.git
